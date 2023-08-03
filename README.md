@@ -17,7 +17,7 @@
 ``` The prediction of calories burnt is important for individuals and fitness enthusiasts who want to track and optimize their physical activities' impact on their health and fitness goals. This project utilizes machine learning techniques to build a model that can estimate calories burnt based on the data collected during various activities. ```
 
 ## Dataset
-``` The dataset used in this project  included in this repository.```
+``` The dataset used in this project is included in this repository.```
 
 ## Installation
 ``` To set up the project locally, follow these steps:
@@ -38,4 +38,4 @@
 ``` Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, feel free to open a pull request or an issue in the repository.```
 
 ## License
-```This project is licensed under the MIT License.```
+``` This project is licensed under the MIT License.```
